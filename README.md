@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy JEREMY HIGUITA
 
-<!--
-**llJhiguitall/llJhiguitall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador con experiencia en:
+- 🎮 Desarrollo de videojuegos en 3D, VR, Mobile y Realidad Mixta.
+- 🏗️ Recorridos virtuales en VR para constructoras como Jaramillo Mora, Constructora Bolívar, Indico y Prana.
+- 💻 Programación y animación 3D.
 
-Here are some ideas to get you started:
+Actualmente trabajo en **MIESGROUP** y tengo experiencia en herramientas como:
+- 🎨 Blender, Unity, Unreal Engine.
+- 🔧 Git, GitHub, CI/CD.
+- 📱 Desarrollo para dispositivos móviles y VR.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- 🏡 Recorridos Virtuales para constructoras.
+- 🎮 Videojuegos y experiencias interactivas en VR.
+- 🛠️ Herramientas y software para la gestión de transporte escolar.
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/tuusuario/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tuemail@example.com)
+
+---
+⭐️ *Si te gustan mis proyectos, ¡no dudes en darles una estrella!*
